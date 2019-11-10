@@ -35,10 +35,8 @@ yarn install
 yarn dev
 ```
 
-Now you can visit the website on http://localhost:3000
-
 ## Usage
-Open up the site on (insert link)
+Open up the site on http://localhost:3000/
 
 ## Meta
 Jason Le - @jQwotos
